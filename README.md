@@ -1,1 +1,2 @@
 # memorize_buddy
+本项目将用来编写记忆单词app
